@@ -15,7 +15,7 @@ remove_src:
 
 git_inspec_code:
   cmd.run:
-    - name: git clone https://github.com/kevinwood75/inspec-test.git /var/tmp/inspec-test 
+    - name: git clone https://github.com/woodez-salt/inspec-formula.git /var/tmp/inspec-test 
 
 
 run_test:
